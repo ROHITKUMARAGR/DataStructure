@@ -11,6 +11,9 @@ int main()
 { 
     struct new_node* head = NULL;
     struct new_node* second = NULL;
+
+
+    
     struct new_node* third = NULL;
 
     // allocate 3 new_nodes in the heap
